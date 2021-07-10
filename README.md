@@ -1,9 +1,10 @@
-# Selenium_Python_Behave_Bdd_Robot
+# Selenium_Python_Sikuli_Bdd_Robot
 
 This is a Web Automation Testing framework using:
 
     Selenium
     Python
+    robotframework-SikuliLibrary
     Robot Framework
 
 ## Installation
@@ -57,6 +58,7 @@ All set!!! Just download the Project folder...
     2. Add dependency libraries
         robotframework
         robotframework-seleniumlibrary
+        robotframework-SikuliLibrary
         openpyxl
         jsonpath
 
