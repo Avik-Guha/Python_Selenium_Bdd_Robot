@@ -4,7 +4,7 @@ This is a Web Automation Testing framework using:
 
     Selenium
     Python
-    robotframework-SikuliLibrary
+    Sikuli
     Robot Framework
 
 ## Installation
