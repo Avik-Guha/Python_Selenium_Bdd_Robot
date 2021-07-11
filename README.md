@@ -6,6 +6,7 @@ This is a Web Automation Testing framework using:
     Python
     Sikuli
     Robot Framework
+    Page Object Model
 
 ## Installation
 
